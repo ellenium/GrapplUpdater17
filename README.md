@@ -1,3 +1,5 @@
+# GrapplUpdater17
+
 A new Grappl updater, for 2017's Grappl versions.
 
 
@@ -13,3 +15,11 @@ Therefore, this updater doesn't have anything that could be construed as unexpec
 You'll need maven installed.
 
     mvn package
+
+# Running
+
+Just double-click it. :D
+
+# License
+
+This code is released under the
