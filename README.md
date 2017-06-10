@@ -8,3 +8,8 @@ on the disk, and the user has consented to this download.
 
 
 Therefore, this updater doesn't have anything that could be construed as unexpected behavior, and provides a shield against the update pathway being abused.
+
+# Building
+You'll need maven installed.
+
+    mvn package
