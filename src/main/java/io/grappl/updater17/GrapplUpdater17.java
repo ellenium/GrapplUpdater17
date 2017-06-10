@@ -1,4 +1,4 @@
-package main.java.io.grappl.updater17;
+package io.grappl.updater17;
 
 public class GrapplUpdater17 {
 
