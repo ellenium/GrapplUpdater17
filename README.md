@@ -22,4 +22,4 @@ Just double-click it. :D
 
 # License
 
-This code is released under the
+This code is released under the terms of the GPLv3.
