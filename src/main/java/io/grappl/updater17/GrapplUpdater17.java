@@ -1,3 +1,5 @@
+package main.java.io.grappl.updater17;
+
 public class GrapplUpdater17 {
 
     public static void main(String[] args) {
